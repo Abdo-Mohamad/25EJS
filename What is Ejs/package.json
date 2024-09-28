@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "ejs": "^3.1.10",
-    "express": "^4.21.0"
+    "express": "^4.21.0",
+    "what-is-ejs": "file:"
   },
   "name": "what-is-ejs",
   "version": "1.0.0",
